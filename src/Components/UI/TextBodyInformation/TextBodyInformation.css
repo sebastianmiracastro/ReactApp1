@@ -1,0 +1,21 @@
+.ContainerAllText{
+    margin: 50px;
+}
+
+.WelcomeToReactH1{
+    border:8px solid black ;
+    text-align: center;
+    background-color: rgb(177, 204, 228);
+    border-radius: 10px;
+}
+
+.Information{
+    background-color:rgb(177, 204, 228) ;
+    border: 5px solid #000;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.WhyReactP{
+    font-size: 23px;
+}

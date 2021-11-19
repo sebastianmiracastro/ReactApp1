@@ -1,0 +1,24 @@
+.Icons{
+    display: flex;
+    justify-content: center;
+    margin: 3rem;
+    background-color: rgb(177, 204, 228);
+}
+.Links{
+    width: 250%;
+    font-size: 150%;
+}
+.List{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+.List li a{
+    text-decoration: none;
+}
+
+.List li:hover{
+    transition: 100ms;
+    transform: scale(1.1);
+}

@@ -1,0 +1,28 @@
+.ContainerNavBar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    justify-content: space-evenly;
+    background-color: rgb(177, 204, 228);
+}
+.Navbar{
+    width: 45rem;
+    font-size: 2rem;
+}
+
+.UlNavBar{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+.LinkNavBarLi{
+    color:#000;
+    text-decoration: none;
+}
+
+.liNavBar:hover{
+    transform: scale(1.5);
+    transition: 200ms;
+}
+
